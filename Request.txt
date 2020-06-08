@@ -1,4 +1,4 @@
-BASE_URL = http://sayakerja.rf.gd/
+BASE_URL = https://sayakerja-api.herokuapp.com/
 
 ---User
     - Liat semua data user{
