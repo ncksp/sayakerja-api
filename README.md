@@ -1,6 +1,6 @@
-BASE_URL = https://sayakerja-api.herokuapp.com/
+## BASE_URL = https://sayakerja-api.herokuapp.com/
 
----User
+### User
     - Liat semua data user{
         URL : /users
         Method : GET
@@ -50,7 +50,7 @@ BASE_URL = https://sayakerja-api.herokuapp.com/
         }
     }
 
---Company
+### Company
     - Lihat data company{
         URL : /company
         Method : GET
@@ -88,7 +88,7 @@ BASE_URL = https://sayakerja-api.herokuapp.com/
         Method: GET
     }
 
---Jobs
+### Jobs
     -Lihat semua jobs{
         URL : /jobs
         Method: GET
@@ -125,7 +125,7 @@ BASE_URL = https://sayakerja-api.herokuapp.com/
     }
 
 
-- Application
+### Application
     - Kirim lamaran{
         URL : /application
         Method: POST
